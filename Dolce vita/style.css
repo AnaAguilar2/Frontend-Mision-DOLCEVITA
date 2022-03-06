@@ -1,0 +1,28 @@
+body{
+    background-image: url(img/fondo1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#carousel{
+    background-color: #6ADEAB;
+    align-items: center;
+}
+#centrar{
+    margin:10px auto;
+    display:block;
+}
+#menu{
+    text-align: right;
+}
+#sobre{
+    text-align: center;
+}
+#form{
+    text-align: center;
+    margin: 10px auto;
+}
+footer{
+    background-color: #6ADEAB;
+   text-align: center;
+}
